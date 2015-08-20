@@ -50,6 +50,6 @@
     "less": "^2.4.0",
     "mocha": "^2.1.0",
     "selenium-webdriver": "^2.45.0",
-    "package": "channelgrabber/swagger-js.git#d6704efbbc529d8ca42efe70cf80fce86d86800a"
+    "package": "channelgrabber/swagger-js.git#329e02eea6668ebb58868c3c9c1eef3db6453954"
   }
 }
